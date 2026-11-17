@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>911 WORKSHOP</title>
+    <link>https://911workshop.vn</link>
+    <atom:link href="https://nhngoc1102003-cmyk.github.io/podcast_911/podcast.xml" rel="self" type="application/rss+xml"/>
+    <description>Mô tả ngắn về kênh: nghe các bài viết mới nhất từ website.</description>
+    <language>vi</language>
+    <lastBuildDate>Tue, 27 Oct 2026 03:17:45 +0000</lastBuildDate>
+    <itunes:author>911 WORKSHOP</itunes:author>
+    <itunes:owner><itunes:name>911 WORKSHOP</itunes:name><itunes:email>nhngoc1102003@gmail.com</itunes:email></itunes:owner>
+    <itunes:image href="https://nhngoc1102003-cmyk.github.io/podcast_911/cover.jpg"/>
+    <image><url>https://nhngoc1102003-cmyk.github.io/podcast_911/cover.jpg</url><title>911 WORKSHOP</title><link>https://911workshop.vn</link></image>
+    <itunes:category text="News"></itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Gara sửa chữa điều hòa xe Lexus uy tín, chuyên nghiệp tại Hà Nội</title>
+      <link>https://911workshop.vn/sua-chua/dieu-hoa-xe-lexus/</link>
+      <description>Hệ thống điều hòa trên dòng xe sang Lexus không chỉ đơn thuần mang lại không khí mát mẻ, dễ chịu mà còn tích hợp các công nghệ lọc khí tiên tiến nhằm bảo vệ sức khỏe người dùng và tối ưu hóa vận hành cho các thiết bị điện tử trong khoang nội thất. […]
+
+Đọc bài gốc: https://911workshop.vn/sua-chua/dieu-hoa-xe-lexus/</description>
+      <guid isPermaLink="false">wp-8552</guid>
+      <pubDate>Tue, 27 Oct 2026 03:17:45 +0000</pubDate>
+      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast_911/audio/8552.mp3" length="4340926" type="audio/mpeg"/>
+      <itunes:duration>9:03</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
