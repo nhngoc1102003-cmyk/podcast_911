@@ -6,7 +6,7 @@
     <atom:link href="https://nhngoc1102003-cmyk.github.io/podcast_911/podcast.xml" rel="self" type="application/rss+xml"/>
     <description>Kiến thức sửa chữa, bảo dưỡng ô tô từ gara 911 Workshop tại Hà Nội.</description>
     <language>vi</language>
-    <lastBuildDate>Mon, 09 Nov 2026 03:18:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 06:34:46 +0000</lastBuildDate>
     <itunes:author>911 WORKSHOP</itunes:author>
     <itunes:owner><itunes:name>911 WORKSHOP</itunes:name><itunes:email>nhngoc1102003@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://nhngoc1102003-cmyk.github.io/podcast_911/cover.jpg"/>
@@ -14,6 +14,19 @@
     <itunes:category text="Leisure"><itunes:category text="Automotive"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Dịch vụ cứu hộ ô tô tại Hà Nội 24/7 giá rẻ, chuyên nghiệp</title>
+      <link>https://911workshop.vn/sua-chua-o-to/cuu-ho/</link>
+      <description>Những sự cố về xe cộ có thể xảy ra bất ngờ trong quá trình di chuyển, đặc biệt vào ban đêm, dịp lễ hoặc trên các tuyến cao tốc có ít điểm sửa chữa. Để xử lý kịp thời những tình huống này, 911 Workshop cung cấp dịch vụ cứu hộ ô tô chuyên […]
+
+Đọc bài gốc: https://911workshop.vn/sua-chua-o-to/cuu-ho/</description>
+      <guid isPermaLink="false">wp-1427</guid>
+      <pubDate>Fri, 13 Nov 2026 06:34:46 +0000</pubDate>
+      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast_911/audio/1427.mp3" length="4579775" type="audio/mpeg"/>
+      <itunes:duration>9:32</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Gara sửa hộp số xe Porsche chuyên sâu, uy tín tại Hà Nội</title>
       <link>https://911workshop.vn/sua-hop-so-xe-porsche/</link>
