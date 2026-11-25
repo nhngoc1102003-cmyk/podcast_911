@@ -6,7 +6,7 @@
     <atom:link href="https://nhngoc1102003-cmyk.github.io/podcast_911/podcast.xml" rel="self" type="application/rss+xml"/>
     <description>Kiến thức sửa chữa, bảo dưỡng ô tô từ gara 911 Workshop tại Hà Nội.</description>
     <language>vi</language>
-    <lastBuildDate>Fri, 13 Nov 2026 06:34:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 06:46:49 +0000</lastBuildDate>
     <itunes:author>911 WORKSHOP</itunes:author>
     <itunes:owner><itunes:name>911 WORKSHOP</itunes:name><itunes:email>nhngoc1102003@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://nhngoc1102003-cmyk.github.io/podcast_911/cover.jpg"/>
@@ -14,6 +14,19 @@
     <itunes:category text="Leisure"><itunes:category text="Automotive"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Dịch vụ bảo dưỡng ô tô uy tín, chuyên nghiệp tại 911 Workshop</title>
+      <link>https://911workshop.vn/bao-duong-o-to/</link>
+      <description>Bảo dưỡng ô tô là việc kiểm tra, vệ sinh và thay thế dầu nhớt, lọc, dung dịch và phụ tùng hao mòn theo mốc km hoặc thời gian do nhà sản xuất khuyến cáo, giúp xe vận hành ổn định và an toàn. Bài viết dưới đây, 911 Workshop tổng hợp 05 mốc bảo […]
+
+Đọc bài gốc: https://911workshop.vn/bao-duong-o-to/</description>
+      <guid isPermaLink="false">wp-8638</guid>
+      <pubDate>Sat, 21 Nov 2026 06:46:49 +0000</pubDate>
+      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast_911/audio/8638.mp3" length="5956332" type="audio/mpeg"/>
+      <itunes:duration>12:24</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Dịch vụ cứu hộ ô tô tại Hà Nội 24/7 giá rẻ, chuyên nghiệp</title>
       <link>https://911workshop.vn/sua-chua-o-to/cuu-ho/</link>
