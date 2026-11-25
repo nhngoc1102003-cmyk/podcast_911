@@ -4,14 +4,14 @@
     <title>911 WORKSHOP</title>
     <link>https://911workshop.vn</link>
     <atom:link href="https://nhngoc1102003-cmyk.github.io/podcast_911/podcast.xml" rel="self" type="application/rss+xml"/>
-    <description>Mô tả ngắn về kênh: nghe các bài viết mới nhất từ website.</description>
+    <description>Kiến thức sửa chữa, bảo dưỡng ô tô từ gara 911 Workshop tại Hà Nội.</description>
     <language>vi</language>
     <lastBuildDate>Tue, 27 Oct 2026 03:19:38 +0000</lastBuildDate>
     <itunes:author>911 WORKSHOP</itunes:author>
     <itunes:owner><itunes:name>911 WORKSHOP</itunes:name><itunes:email>nhngoc1102003@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://nhngoc1102003-cmyk.github.io/podcast_911/cover.jpg"/>
     <image><url>https://nhngoc1102003-cmyk.github.io/podcast_911/cover.jpg</url><title>911 WORKSHOP</title><link>https://911workshop.vn</link></image>
-    <itunes:category text="News"></itunes:category>
+    <itunes:category text="Leisure"><itunes:category text="Automotive"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
@@ -37,6 +37,19 @@
       <pubDate>Tue, 27 Oct 2026 03:17:45 +0000</pubDate>
       <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast_911/audio/8552.mp3" length="4340926" type="audio/mpeg"/>
       <itunes:duration>9:03</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Bảo Dưỡng Xe Toyota Uy Tín, Chuyên Nghiệp Tại Hà Nội | 911 Workshop</title>
+      <link>https://911workshop.vn/bao-duong-xe-toyota-uy-tin-ha-noi/</link>
+      <description>Toyota là thương hiệu ô tô được ưa chuộng bậc nhất tại Việt Nam nhờ độ bền bỉ, tiết kiệm nhiên liệu và chi phí sử dụng hợp lý. Tuy nhiên, để chiếc xe luôn duy trì được phong độ ổn định, việc bảo dưỡng định kỳ là vô cùng quan trọng. Một chiếc Toyota […]
+
+Đọc bài gốc: https://911workshop.vn/bao-duong-xe-toyota-uy-tin-ha-noi/</description>
+      <guid isPermaLink="false">wp-4550</guid>
+      <pubDate>Fri, 26 Sep 2025 10:18:40 +0000</pubDate>
+      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast_911/audio/4550.mp3" length="2468474" type="audio/mpeg"/>
+      <itunes:duration>5:08</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
