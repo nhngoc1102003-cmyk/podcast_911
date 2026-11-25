@@ -6,7 +6,7 @@
     <atom:link href="https://nhngoc1102003-cmyk.github.io/podcast_911/podcast.xml" rel="self" type="application/rss+xml"/>
     <description>Kiến thức sửa chữa, bảo dưỡng ô tô từ gara 911 Workshop tại Hà Nội.</description>
     <language>vi</language>
-    <lastBuildDate>Tue, 27 Oct 2026 03:19:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 03:18:07 +0000</lastBuildDate>
     <itunes:author>911 WORKSHOP</itunes:author>
     <itunes:owner><itunes:name>911 WORKSHOP</itunes:name><itunes:email>nhngoc1102003@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://nhngoc1102003-cmyk.github.io/podcast_911/cover.jpg"/>
@@ -14,6 +14,19 @@
     <itunes:category text="Leisure"><itunes:category text="Automotive"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Gara sửa hộp số xe Porsche chuyên sâu, uy tín tại Hà Nội</title>
+      <link>https://911workshop.vn/sua-hop-so-xe-porsche/</link>
+      <description>Hộp số là bộ phận quan trọng, ảnh hưởng trực tiếp đến khả năng truyền lực và vận hành của xe Porsche. Sau thời gian sử dụng, các chi tiết bên trong có thể bị hao mòn, rò rỉ dầu hoặc phát sinh lỗi điều khiển khiến xe chuyển số không ổn định. 911 Workshop […]
+
+Đọc bài gốc: https://911workshop.vn/sua-hop-so-xe-porsche/</description>
+      <guid isPermaLink="false">wp-2634</guid>
+      <pubDate>Mon, 09 Nov 2026 03:18:07 +0000</pubDate>
+      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast_911/audio/2634.mp3" length="3261739" type="audio/mpeg"/>
+      <itunes:duration>6:48</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Gara chuyên sửa chữa hộp số Audi tại Hà Nội uy tín với mức giá tốt</title>
       <link>https://911workshop.vn/sua-chua/hop-so-audi/</link>
